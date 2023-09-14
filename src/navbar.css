@@ -41,7 +41,7 @@ body {
   list-style: none;
   position: absolute;
   top: 4%;
-  left: 5%;
+  left: 7%;
   font-size: 1.2rem;
 }
 
@@ -98,13 +98,13 @@ body {
   object-fit: cover;
   position: absolute;
   top: 57%;
-  left: 45%;
+  left: 38%;
 }
 
 
 .front-end {
-  top: 87%;
-  left: -23.7%;
+  top: 84%;
+  left: -15.7%;
   padding: 10px 53px 10px 116px;
   width: 215px;
   font-size: 1rem;
