@@ -26,7 +26,7 @@ body {
 
 .contact-desc {
     margin-top: 3em;
-    width: 126%;
+    width: 100%;
     line-height: 1.75;
 }
 
@@ -40,7 +40,7 @@ body {
 
 .ps-desc {
     margin-top: 1em;
-    width: 118%;
+    width: 108%;
 }
 
 
@@ -56,7 +56,7 @@ body {
     width: 100%;
     font-size: 1rem;
     border-radius: 2px;
-    margin: 2.5em 9%;
+    margin: 2.5em 0;
 }
 
 
