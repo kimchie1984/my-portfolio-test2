@@ -25,7 +25,7 @@ export default function App() {
 
 
   return (
-    <div>
+    <div className="app-container">
       <Navbar />
       <MyWork />
       {content}
