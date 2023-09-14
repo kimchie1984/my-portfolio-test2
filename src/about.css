@@ -80,7 +80,7 @@
   @media (min-width: 480px) {
     
     .about-container {
-        height: 205vh;
+        height: 190vh;
     }
 
 
@@ -114,7 +114,11 @@
 
 
     .about-container {
-        height: 198vh;
+        height: 175vh;
+    }
+
+    .about-desc {
+        width: 100%;
     }
 
 
