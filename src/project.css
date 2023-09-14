@@ -62,7 +62,6 @@
 .desc {
     font-size: 1rem;
     margin: 1.25em 0 4em 0;
-    width: 91%
     line-height: 1.85;
 }
 
@@ -160,6 +159,20 @@
 }
 
 
+
+/*----------------------------@media----1270px-----------------------*/
+@media (min-width: 1270px) {
+
+    .journey {
+    width: 82%;
+    margin: 0.5em 9% 5.5em 9%;
+    }
+
+    .personal-dashboard {
+    width: 75%;
+    }
+    
+}
 
 
 /*----------------------------@media----1912px-----------------------*/
