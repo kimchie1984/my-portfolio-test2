@@ -269,9 +269,9 @@ body {
 
 
   .front-end {
-    top: 82%;
+    top: 80%;
     left: -5.7%;
-    padding: 10px 0px 10px 314px;
+    padding: 10px 0px 10px 320px;
     font-weight: lighter;
   }
 
@@ -297,7 +297,7 @@ body {
 
 
   .front-end {
-    top: 82%;
+    top: 80%;
     left: -0.7%;
   }
 
@@ -323,8 +323,8 @@ body {
 
 
   .front-end {
-    top: 75%;
-    left: -0.7%;
+    top: 73%;
+    left: -0.3%;
     padding: 10px 0px 10px 395px;
   }
 
@@ -353,9 +353,9 @@ body {
 
 
   .front-end {
-    top: 75%;
+    top: 73%;
     left: 3.3%;
-    padding: 10px 0px 10px 386px;
+    padding: 10px 0px 10px 395px;
   }
 
 
@@ -388,9 +388,9 @@ body {
 
 
   .front-end {
-    top: 75%;
+    top: 73%;
     left: 9.3%;
-    padding: 10px 0px 10px 380px;
+    padding: 10px 8px 10px 380px;
   }
 
 }
